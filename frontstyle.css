@@ -1,0 +1,23 @@
+h1{
+    color: burlywood;
+    font: 54;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(20, 19, 19);
+}
+
+h2{
+    color:azure;
+    font: 90;
+}
+p {
+    color:aliceblue;
+    font:75;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3{
+    color:aliceblue;
+    font:65;
+}
