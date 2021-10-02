@@ -4,20 +4,21 @@ h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 body{
-    background-color: rgb(20, 19, 19);
+    background-color: rgba(75, 35, 43, 0.151);
 }
 
 h2{
-    color:azure;
-    font: 90;
+    color:rgb(31, 27, 27);
+    text-align: center;
+    font-size: xx-large;
 }
 p {
-    color:aliceblue;
+    color:rgb(7, 21, 32);
     font:75;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
 }
 
 h3{
-    color:aliceblue;
+    color:rgb(4, 16, 27);
     font:65;
 }
