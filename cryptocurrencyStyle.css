@@ -1,8 +1,4 @@
-body {
-    font-family: 'Roboto', serif;
-    font-size: 48px;
-    text-shadow: 4px 4px 4px #aaa;
+
+body{
+    text-align: center;
 }
-h2{
-    color: red;
-}   
